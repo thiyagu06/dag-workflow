@@ -1,0 +1,17 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+target
+*.iml
+*.ipr
+*.iws
+dependency-reduced-pom.xml
+
+*.classpath
+.settings/
+target/
+*.project
+
